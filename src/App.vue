@@ -114,7 +114,7 @@ h4 {
 // .at-related
 .at-card {
   margin-bottom: 10px;
-}
+} 
 
 .at-card__head {
   background-color: #2d2d2d;
